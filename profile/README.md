@@ -1,4 +1,4 @@
-![Image](FlawedBitsProductions.png)
+![Image](profile/FlawedBitsProductions.png)
 # 👋 Hey there
 
 Welcome to Flawedbits Productions, an organization mainly focused on game development.
