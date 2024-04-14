@@ -7,4 +7,4 @@ Welcome to Flawedbits Productions, an organization mainly focused on game develo
 
 ## Team:
 - Shurme (CEO of Flawedbits Productions)
-- Pedro (Sound Designer)
+- Pedro Pacheco (Sound Designer)
