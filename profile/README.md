@@ -8,5 +8,5 @@ Welcome to Flawedbits Productions, an organization mainly focused on game develo
 # 👥 Team
 | <div style="width:20vw">Profile Picture and Name</div> | <div style="width:20vw">Role</div> |
 | ----------------------------------------------------- | --------------------------------- |
-| <div style="display:flex; align-items:center;"><img src="https://github.com/shurme.png" alt="Profile Picture" width="60" style="border-radius: 30px;"><div style="text-align:center; margin-left: 10px;">[**André Barros**](https://github.com/shurme)</div></div> | CEO |
+| <div style="display:flex; align-items:center;"><img src="https://github.com/shurme.png" alt="Profile Picture" width="60" style="border-radius: 30px;"><div style="text-align:center; margin-left: 10px;">[**Henrique Ferreira**](https://github.com/shurme)</div></div> | CEO |
 | <div style="display:flex; align-items:center;"><img src="" alt="Profile Picture" width="60" style="border-radius: 30px;"><div style="text-align:center; margin-left: 10px;">[**Pedro Pacheco**]()</div></div> | Sound Designer |
