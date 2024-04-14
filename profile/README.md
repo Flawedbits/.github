@@ -1,4 +1,4 @@
-![Image]("profile/FlawedBitsProductions.png")
+![Image]("FlawedBitsProductions.png")
 # 👋 Hey there
 
 Welcome to Flawedbits Productions, an organization mainly focused on game development.
