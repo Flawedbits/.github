@@ -1,4 +1,4 @@
-![Image](https://ibb.co/0ZxkMP3)
+![Image](https://i.ibb.co/sQZhwLr/Flawed-Bits-Productions.png)
 # 👋 Hey there
 
 Welcome to Flawedbits Productions, an organisation mainly focused on game development.
