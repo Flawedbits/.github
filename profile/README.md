@@ -1,7 +1,7 @@
 ![Image](profile/FlawedBitsProductions.png)
 # 👋 Hey there
 
-Welcome to Flawedbits Productions, an organization mainly focused on game development.
+Welcome to Flawedbits Productions, an organisation mainly focused on game development.
 
 # 🗂️ Current Projects
 - The Purpose
