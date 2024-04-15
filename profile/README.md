@@ -1,7 +1,7 @@
 ![Image](https://i.ibb.co/sQZhwLr/Flawed-Bits-Productions.png)
 # 👋 Hey there
 
-Welcome to Flawedbits Productions, a studio mainly focused on game development.
+Welcome to Flawedbits Productions, a startup studio mainly focused on game development.
 We are currently in need of more members to our team such as designers, 3D assets modelers and developers with experience with unity, if you are interested let us know at flawedbits@gmail.com.
 
 # 🗂️ Current Projects
