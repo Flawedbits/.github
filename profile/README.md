@@ -6,7 +6,8 @@ We are currently in need of more members for our team such as designers, 3D asse
 
 # 🗂️ Current Projects
 - The Purpose
-- The Engine
+- The Engine (Private Repository - Spoilers)
+- The Loom Project
 
 # 👥 Team
 | <div style="width:20vw">Profile Picture and Name</div> | <div style="width:20vw">Role</div> |
