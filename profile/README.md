@@ -5,9 +5,9 @@ Welcome to Flawedbits Productions, a startup studio mainly focused on game devel
 We are currently in need of more members for our team such as designers, 3D assets modelers and developers with experience with unity or gamemaker, if you are interested let us know at flawedbits@gmail.com.
 
 # 🗂️ Current Projects
-- The Purpose
-- The Engine (Private Repository - Spoilers)
 - The Loom Project
+- The Engine (Private Repository - Spoilers)
+- The Purpose
 
 # 👥 Team
 | <div style="width:20vw">Profile Picture and Name</div> | <div style="width:20vw">Role</div> |
